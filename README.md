@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LokeshKumar127
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on domains of the software roles
 - 📫 How to reach me [https://www.linkedin.com/in/lokesh-kumar-a866a3235/]
 <!---
